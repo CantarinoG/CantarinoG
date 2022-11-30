@@ -1,32 +1,69 @@
-### Sobre mim
+<details open>
+<summary>English</summary>
+<br>
+<h1 style="text-align: center">Hi, I'm Guilherme Cantarino</h1>
+<br>
+<p>
+  Currently studying the front-end area and searching for an entry-level job or internship.
+</p>
+<br>
+<h2>Development Stack</h2>
+<br>
+<img src="https://cdn-icons-png.flaticon.com/64/174/174854.png" title="HTML 5" />
+<img src="https://cdn-icons-png.flaticon.com/64/732/732190.png" title="CSS 3" />
+<img src="https://cdn-icons-png.flaticon.com/64/5968/5968292.png" title="JavaScript" />
+<img src="https://cdn-icons-png.flaticon.com/64/5968/5968672.png" title="Bootstrap" />
+<img src="https://cdn-icons-png.flaticon.com/64/5968/5968358.png" title="Bootstrap" />
+<img src="https://cdn-icons-png.flaticon.com/64/1822/1822899.png" title="Python" />
+<img src="https://cdn-icons-png.flaticon.com/64/226/226777.png" title="Java" />
+<br><br>
+<h2>GitHub Stats</h2>
+<br> 
 
-* 🧔🏻Atualmente curso Ciência da Computação no IFSEMG Campus Rio Pomba. Desde pequeno sempre apresentei muito interesse e muita aptidão para lidar com coisas relacionadas a computadores e tecnologia. Meu interesse na área de desenvolvimento é bem variado, gosto de aprender de tudo. Meu objetivo é continuar aprendendo cada vez mais e aprofundando meus conhecimentos nas tecnologias que já uso, além de buscar aprender novas tecnologias e trabalhar em projetos interessantes. 
+[![CantarinoG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CantarinoG&theme=tokyonight)](https://github.com/CantarinoG)
+<br>
+<h2>Contact me</h2>
+<br>
 
-* 📚Estou no quarto período do curso. Possuo conhecimento em diversas linguagens de programação, sendo C++, Java e Python as que eu possuo mais familiaridade até o momento. Atualmente busco aprofundar meu conhecimento na parte de front-end, visto que é algo muito requisitado no mercado, buscando aprofundar meus conhecimentos em HTML, CSS e JavaScript, além de estudar também as diversas tecnologias e frameworks relacionadas a esta área de desenvolvimento.
-
-* 💻Busco colaborar em projetos que eu considere serem interessantes e que trazem um impacto positivo para o mundo, além de serem projetos que me possibilitem aprender coisas novas e me aprimorar como dev.
-
-* 🎊Fora a computação, tenho diversos interesses e hobbies, sendo os principais: cinema, animes, música, leitura, filosofia e desenvolvimento pessoal de uma forma geral. Além disso, gosto muito de conhecer diferentes culturas e linguagens, e falo inglês fluentemente.
-
-* 📩Como me contatar:   
   * Email: guilhermecantarino1709@gmail.com  
   * [Instagram](https://www.instagram.com/cantarinoguilherme/)  
   * [LinkedIn](https://www.linkedin.com/in/guilherme-cantarino-34b3201b2/)
-  
----
 
-### About me
+<br>
 
-* 🧔🏻Currently I am studying Computer Science at IFSEMG Campus Rio Pomba. Since I was a little kid, I have always shown a lot of interest and aptitude for dealing with things related to computers and technology. My interest in the development area is very varied, I like to learn everything. My goal is to continue learning more and deepening my knowledge of the technologies I already use, in addition to seeking to learn new technologies and work on interesting projects. 
+</details>
 
-* 📚I'm in the second year of my degree. I have knowledge in several programming languages, the ones I have the most familiarity with so far are C++, Java and Python. Currently I seek to deepen my knowledge in the front-end part, since it is something very requested in the job market, seeking to deepen my knowledge in HTML, CSS and JavaScript, as well as studying the various technologies and frameworks related to this area of development.
+<details>
+<summary>Português</summary>
+<br>
+<h1 style="text-align: center">Olá, eu sou Guilherme Cantarino</h1>
+<br>
+<p>
+  Atualmente estudando a área de Front-End e buscando uma vaga de júnior ou estágio.
+</p>
+<br>
+<h2>Meu Stack de Desenvolvimento</h2>
+<br>
+<img src="https://cdn-icons-png.flaticon.com/64/174/174854.png" title="HTML 5" />
+<img src="https://cdn-icons-png.flaticon.com/64/732/732190.png" title="CSS 3" />
+<img src="https://cdn-icons-png.flaticon.com/64/5968/5968292.png" title="JavaScript" />
+<img src="https://cdn-icons-png.flaticon.com/64/5968/5968672.png" title="Bootstrap" />
+<img src="https://cdn-icons-png.flaticon.com/64/5968/5968358.png" title="Bootstrap" />
+<img src="https://cdn-icons-png.flaticon.com/64/1822/1822899.png" title="Python" />
+<img src="https://cdn-icons-png.flaticon.com/64/226/226777.png" title="Java" />
+<br><br>
+<h2>Status do GitHub</h2>
+<br> 
 
-* 💻I seek to collaborate on projects that I consider to be interesting and to have a positive impact on the world, as well as projects that allow me to learn new things and improve myself as a developer.
+[![CantarinoG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CantarinoG&theme=tokyonight)](https://github.com/CantarinoG)
+<br>
+<h2>Entre em contato comigo</h2>
+<br>
 
-* 🎊Apart from Computer Science, I have several interests and hobbies, the main ones being: cinema, anime, music, reading, philosophy and personal development in general. In addition, I really enjoy getting to know different cultures and languages, and I speak English fluently.
-
-
-* 📩Contact me:   
   * Email: guilhermecantarino1709@gmail.com  
   * [Instagram](https://www.instagram.com/cantarinoguilherme/)  
   * [LinkedIn](https://www.linkedin.com/in/guilherme-cantarino-34b3201b2/)
+
+<br>
+
+</details>
