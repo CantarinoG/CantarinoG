@@ -21,6 +21,7 @@
 <br> 
 
 [![CantarinoG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CantarinoG&theme=tokyonight)](https://github.com/CantarinoG)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CantarinoG&theme=tokyonight)](https://github.com/CantarinoG)
 <br>
 <h2>Contact me</h2>
 <br>
@@ -56,6 +57,7 @@
 <br> 
 
 [![CantarinoG's GitHub stats](https://github-readme-stats.vercel.app/api?username=CantarinoG&theme=tokyonight)](https://github.com/CantarinoG)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CantarinoG&theme=tokyonight)](https://github.com/CantarinoG)
 <br>
 <h2>Entre em contato comigo</h2>
 <br>
