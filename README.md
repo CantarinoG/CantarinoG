@@ -1,1 +1,1 @@
-[<img src="./cantarinog.github.io_personal-portfolio_.png" alt="Portfolio"/>](https://cantarinog.github.io/personal-portfolio/)
+[<img src="./img.png" alt="Portfolio"/>](https://cantarinog.github.io/personal-portfolio/)
